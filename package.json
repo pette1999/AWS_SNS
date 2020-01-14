@@ -1,0 +1,22 @@
+{
+  "name": "aws_sns",
+  "version": "1.0.0",
+  "description": "A simple Node.js application illustrating usage of the AWS SDK for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pette1999/AWS_SNS.git"
+  },
+  "author": "Peter Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pette1999/AWS_SNS/issues"
+  },
+  "homepage": "https://github.com/pette1999/AWS_SNS#readme",
+  "dependencies": {
+    "uuid": "^3.3.3"
+  }
+}
